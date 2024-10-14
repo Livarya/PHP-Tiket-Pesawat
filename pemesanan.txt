@@ -1,0 +1,13 @@
+Nama: faisal, Asal: bandung, Tujuan: osaka, Tanggal: 
+Nama: faisal, Asal: bandung, Tujuan: osaka, Tanggal: 
+Nama: faisal, Asal: bandung, Tujuan: osaka, Tanggal: 
+Nama: majun, Asal: kiyoto, Tujuan: osaka, Tanggal: 
+Nama: kio, Asal: ngawi, Tujuan: bogor, Tanggal: 
+Nama: kio, Asal: ngawi, Tujuan: , Tanggal: 
+Nama: ujang, Asal: jawa, Tujuan: papua, Tanggal: 
+Nama: ujang, Asal: jawa, Tujuan: papua, Tanggal: 
+Nama: ayam, Asal: pasar, Tujuan: kampung, Tanggal: 2024-10-03
+Nama: asep, Asal: pasar, Tujuan: kampung, Tanggal: 2024-10-03
+Nama: majun, Asal: jawa, Tujuan: osaka, Tanggal: 2024-11-10
+Nama: yana, Asal: bandung, Tujuan: jakarta, Tanggal: 2024-10-08
+Nama: lipar, Asal: bandung, Tujuan: jakarta, Tanggal: 2024-10-08
